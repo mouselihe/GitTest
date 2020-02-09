@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
+        // 你好  方便类似部分不是吧
     }
 }
